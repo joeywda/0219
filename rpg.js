@@ -21,3 +21,6 @@ player.report();
 // git commit -m "first commit2"
 // git remote add origin https://github.com/joeywda/0219.git
 // git push -u origin master
+
+// git remote add origin https://github.com/joeywda/0219.git
+// git push -u origin master
