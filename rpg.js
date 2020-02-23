@@ -24,3 +24,8 @@ player.report();
 
 // git remote add origin https://github.com/joeywda/0219.git
 // git push -u origin master
+
+// git clone https://github.com/joeywda/0219.git
+
+// $ git config --global user.name "John Doe"
+// $ git config --global user.email johndoe@example.com
